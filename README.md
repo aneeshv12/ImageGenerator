@@ -2,7 +2,7 @@
 Using the OpenAI API, generate an image based on any text that is inputted
 
 ## Getting Started
-* Go to (https://beta.openai.com/) and register for a free account. After signing up, create an API account under settings. 
+* Go to (https://beta.openai.com/) and register for a free account. After signing up, create an API key under settings. 
 * Clone the repository using this command:
 ```
 git@github.com:aneeshv12/ImageGenerator.git
